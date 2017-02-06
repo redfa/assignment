@@ -9,4 +9,3 @@ setup(name="systeminfo",
       PACAGES=['systeminfo'],
       entry_points={
           'console_scripts':['com30670_systeminfo=systeminfo.main:main']})
-f'f'f'f'f
